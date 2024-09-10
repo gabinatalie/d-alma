@@ -388,6 +388,15 @@ footer {
   .page-container {
     align-items: center;
   }
+  
+  .background-img {
+  object-fit: cover;
+  height: 100vh;
+  width: 100%;
+ 
+  }
+   
+
 
   .search-content {
     height: 30vh;
